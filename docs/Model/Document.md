@@ -18,7 +18,7 @@ Name | Type | Description | Notes
 **due_date** | [**\DateTime**](\DateTime.md) |  | [optional] 
 **paid_date** | [**\DateTime**](\DateTime.md) |  | [optional] 
 **organization** | [**\Swagger\Client\Model\DocumentOrganization**](DocumentOrganization.md) |  | [optional] 
-**partner** | [**AllOfDocumentPartner**](AllOfDocumentPartner.md) | You should use document_partner instead. | [optional] 
+**partner** | [**\Swagger\Client\Model\Partner**](Partner.md) |  | [optional] 
 **document_partner** | [**\Swagger\Client\Model\DocumentPartner**](DocumentPartner.md) |  | [optional] 
 **electronic** | **bool** |  | [optional] 
 **comment** | **string** |  | [optional] 
